@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="untitled:jar">
+    <output-path>$PROJECT_DIR$/../../Bungee/Bridge Server 1/plugins</output-path>
+    <root id="archive" name="untitled.jar">
+      <element id="module-output" name="untitled" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Dependencies/spigot-api-1.8.8-R0.1-20160221.082514-43.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
